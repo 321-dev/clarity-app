@@ -1,8 +1,7 @@
-const CACHE = 'clarity-v2';
+const CACHE = 'clarity-v3';
 const ASSETS = [
   './index.html',
   './manifest.json',
-  'https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Sora:wght@300;400;600;700&display=swap'
 ];
 
 self.addEventListener('install', e => {

@@ -1,11 +1,11 @@
 {
   "name": "Clarity — Turn Vision Into Action",
   "short_name": "Clarity",
-  "description": "AI-powered goal and task manager",
+  "description": "AI-powered goal and habit tracker",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#0d0f1a",
-  "theme_color": "#7c6ff7",
+  "background_color": "#090e0c",
+  "theme_color": "#00c896",
   "orientation": "portrait-primary",
   "icons": [
     {
